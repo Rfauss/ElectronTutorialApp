@@ -1,0 +1,18 @@
+{
+  "name": "electrontutorialapp",
+  "version": "1.0.0",
+  "description": "Tutorial App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "Tutorial"
+  ],
+  "author": "Rfauss",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.1.1"
+  }
+}
